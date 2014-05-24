@@ -1,0 +1,8 @@
+C:\Users\Katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\bin\Release\Sokoban_2.exe
+C:\Users\Katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\bin\Release\Sokoban_2.pdb
+C:\Users\Katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Release\Sokoban_2.Form1.resources
+C:\Users\Katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Release\Sokoban_2.Properties.Resources.resources
+C:\Users\Katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Release\Sokoban_2.csproj.GenerateResource.Cache
+C:\Users\Katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Release\Sokoban_2.exe
+C:\Users\Katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Release\Sokoban_2.pdb
+C:\Users\Katerina\Documents\Visual Studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Release\Sokoban_2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\bin\Debug\Sokoban_2.exe
+c:\users\katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\bin\Debug\Sokoban_2.pdb
+c:\users\katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Debug\Sokoban_2.Form1.resources
+c:\users\katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Debug\Sokoban_2.Properties.Resources.resources
+c:\users\katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Debug\Sokoban_2.csproj.GenerateResource.Cache
+c:\users\katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Debug\Sokoban_2.exe
+c:\users\katerina\documents\visual studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Debug\Sokoban_2.pdb
+C:\Users\Katerina\Documents\Visual Studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Debug\Sokoban_2.csprojResolveAssemblyReference.cache
+C:\Users\Katerina\Documents\Visual Studio 2010\Projects\Sokoban_2\Sokoban_2\obj\x86\Debug\Sokoban_2.Form2.resources
+C:\Users\Katerina\Documents\Visual Studio 2010\Projects\Sokoban_2\Sokoban_2\bin\Debug\Levels\Level_0.txt
